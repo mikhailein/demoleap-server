@@ -1,26 +1,26 @@
 {
   "dataPointsGraph": [
-    { "y": 13, "label": "Jan." },
-    { "y": 22, "label": "Feb." },
-    { "y": 23, "label": "Mar." },
-    { "y": 38, "label": "Apr." },
-    { "y": 45, "label": "May." },
-    { "y": 39, "label": "Jun." },
-    { "y": 42, "label": "Jul." },
-    { "y": 47, "label": "Aug." },
-    { "y": 34, "label": "Sep." },
-    { "y": 17, "label": "Oct." },
-    { "y": 28, "label": "Nov." },
-    { "y": 12, "label": "Dec." }
+    { "y": 15, "label": "Jan." },
+    { "y": 25, "label": "Feb." },
+    { "y": 25, "label": "Mar." },
+    { "y": 55, "label": "Apr." },
+    { "y": 55, "label": "May." },
+    { "y": 59, "label": "Jun." },
+    { "y": 52, "label": "Jul." },
+    { "y": 55, "label": "Aug." },
+    { "y": 55, "label": "Sep." },
+    { "y": 55, "label": "Oct." },
+    { "y": 55, "label": "Nov." },
+    { "y": 55, "label": "Dec." }
   ],
 
   "dataPointsPie": [
-    { "y": 26, "name": "School Aid" },
-    { "y": 20, "name": "Medical Aid" },
-    { "y": 5, "name": "Debt/Capital" },
-    { "y": 3, "name": "Elected Officials" },
-    { "y": 7, "name": "University" },
-    { "y": 17, "name": "Executive" },
+    { "y": 55, "name": "School Aid" },
+    { "y": 55, "name": "Medical Aid" },
+    { "y": 55, "name": "Debt/Capital" },
+    { "y": 33, "name": "Elected Officials" },
+    { "y": 33, "name": "University" },
+    { "y": 33, "name": "Executive" },
     { "y": 22, "name": "Other Local Assistance" }
   ]
 }
