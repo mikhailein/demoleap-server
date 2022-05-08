@@ -15,12 +15,8 @@
   ],
 
   "dataPointsPie": [
-    { "y": 55, "name": "School Aid" },
-    { "y": 55, "name": "Medical Aid" },
-    { "y": 55, "name": "Debt/Capital" },
-    { "y": 33, "name": "Elected Officials" },
-    { "y": 33, "name": "University" },
-    { "y": 33, "name": "Executive" },
-    { "y": 22, "name": "Other Local Assistance" }
+    { "y": 55, "name": "Data1" },
+    { "y": 55, "name": "Data2" },
+    { "y": 55, "name": "Data3" }
   ]
 }
